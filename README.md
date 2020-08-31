@@ -1,1 +1,1 @@
-# C-115
+# C-115 sigmoid function
